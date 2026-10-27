@@ -1,0 +1,24 @@
+/* Green auroral curtains above a bright automotive display plane. */
+.aurora-atmosphere{position:fixed;inset:0;width:100%;height:100%;pointer-events:none;z-index:-1;opacity:.6}
+body:before{background:radial-gradient(ellipse at 80% 20%,#1be28a0c,transparent 46%),radial-gradient(ellipse at 10% 70%,#70d3ab0c,transparent 40%)}
+.living-particles{filter:hue-rotate(220deg);opacity:.6}
+.motion-hero{height:720px;background:linear-gradient(180deg,#041b1a 0%,#06291f 17%,#92b7a7 36%,#f5f8f6 60%,#faf8fc 85%);border-bottom-color:#dfebe5}
+.motion-hero:before{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(90deg,#faf8fc 0%,#faf8fcfa 27%,#faf8fce6 37%,#faf8fc45 57%,transparent 76%),linear-gradient(0deg,#faf8fc 0%,#faf8fc00 54%)}
+.aurora-curtain-sky{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:0}
+.motion-hero .aurora-field{display:none}
+.motion-hero .hero-particles{opacity:.55;filter:hue-rotate(220deg);z-index:2}
+.motion-hero .speed-field,.motion-hero .telemetry-grid{z-index:1;opacity:.35}
+.motion-hero .speed-field i{background:linear-gradient(90deg,transparent,#58c99580,transparent)}
+.motion-hero .hero-copy{z-index:3}
+.motion-hero .car-stage{top:118px;height:480px;z-index:2}
+.motion-hero .car-model{top:10px;color:#417c65}
+.motion-hero .car-model>span{opacity:.14}
+.motion-hero .car-model small{color:#458268}
+.motion-hero .car-stage-caption i{background:#30aa74;box-shadow:0 0 0 4px #30aa7410}
+.motion-hero .hero-kicker>span{background:#21a774;box-shadow:0 0 0 5px #21a77414}
+.motion-hero .hero-bottom-note{z-index:3}
+.motion-hero .car-control-bar{bottom:35px}
+.motion-hero.is-playing .car-stage:after{background:linear-gradient(90deg,transparent,#3abd85,transparent)}
+@media(min-width:1800px){.motion-hero{height:750px}.motion-hero .car-stage{top:120px;height:510px}}
+@media(max-width:1200px) and (min-width:761px){.motion-hero{height:670px}.motion-hero .car-stage{top:190px;height:360px}.motion-hero:before{background:linear-gradient(90deg,#faf8fc 0%,#faf8fcf2 36%,#faf8fc55 62%,transparent 87%),linear-gradient(0deg,#faf8fc 0%,transparent 54%)}}
+@media(max-width:760px){.motion-hero{height:785px;background:linear-gradient(180deg,#06231c 0%,#0a3326 15%,#bed4c8 32%,#faf8fc 49%)}.motion-hero:before{background:linear-gradient(90deg,#faf8fcf5 0%,#faf8fce8 40%,#faf8fc80 73%,#faf8fc10),linear-gradient(0deg,#faf8fc 0%,#faf8fc00 64%)}.motion-hero .car-stage{top:380px;height:278px}.motion-hero .hero-copy{z-index:3}.aurora-curtain-sky{opacity:.95}.motion-hero .car-model{top:0}.motion-hero .hero-particles{opacity:.4}.motion-hero .car-control-bar{bottom:38px}}

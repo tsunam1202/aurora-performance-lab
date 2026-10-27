@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AURORA 网站嵌入示例</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#f4f1f7;color:#391343;font-family:Arial,"Microsoft YaHei",sans-serif}
+    header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 4vw;background:#fff;border-bottom:1px solid #e4dce9}
+    h1{font-size:18px;margin:0}header p{font-size:12px;color:#78637d;margin:7px 0 0}a{color:#6c268b;font-size:13px;white-space:nowrap}
+    iframe{display:block;width:100%;height:calc(100dvh - 92px);min-height:640px;border:0;background:#faf8fc}
+    @media(max-width:600px){header{padding:16px;align-items:start}h1{font-size:15px}header p{max-width:240px;line-height:1.7}iframe{height:calc(100dvh - 104px);min-height:600px}}
+  </style>
+</head>
+<body>
+  <header><div><h1>你的主站 · AURORA 模块</h1><p>此页展示独立样式与交互的 iframe 集成方式。</p></div><a href="../dist/index.html#home" target="_blank" rel="noopener">独立打开 ↗</a></header>
+  <iframe src="../dist/index.html#home" title="AURORA 极光：性能、配件与汽车文化" loading="eager" allow="fullscreen"></iframe>
+</body>
+</html>

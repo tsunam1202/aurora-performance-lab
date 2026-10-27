@@ -1,0 +1,11 @@
+{
+  "name": "aurora-performance-lab",
+  "version": "5.0.0",
+  "private": true,
+  "description": "AURORA performance, parts and automotive culture website",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node integration/server.cjs",
+    "preview": "node integration/server.cjs"
+  }
+}

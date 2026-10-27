@@ -1,0 +1,513 @@
+{
+  "title": "AURORA asset and product sources",
+  "checkedAt": "2026-10-28",
+  "copyright": "Third-party product photographs, trademarks and product names belong to their respective brands. The URLs below document reference sources; inclusion is not a claim of a transferable image licence.",
+  "teamAssets": {
+    "origin": "User-provided AURORA / SZTU Racing imagery and brand logos",
+    "files": [
+      "assets/aurora-logo.png",
+      "assets/aurora-wordmark-v4.png"
+    ],
+    "indexFiles": [
+      "car-data.js",
+      "culture-data.js"
+    ],
+    "note": "Car renders and team culture photographs were supplied by the user; confirm rights for any new publication context."
+  },
+  "generatedConcepts": {
+    "method": "OpenAI built-in image generation with the user-provided Aurora wordmark",
+    "kind": "Industrial design concept images, not production photographs, certifications or inventory claims",
+    "files": [
+      "assets/aurora-products/formula-carbon.webp",
+      "assets/aurora-products/gt-leather.webp",
+      "assets/aurora-products/rally-suede.webp"
+    ]
+  },
+  "pricing": "Prices shown are planning budgets. They are not verified current retail quotes, stock availability or live exchange rates.",
+  "productSourceCount": 54,
+  "products": [
+    {
+      "id": "ohlins",
+      "brand": "ÖHLINS",
+      "name": "Road & Track DFV",
+      "model": "BMS MR40S1",
+      "officialProductUrl": "https://www.ohlins.com/en-us/automotive/road-and-track/bmw-m2-m3-m4-f87-f80-f82-2015?v=bmw-m2-2021",
+      "localImage": "assets/ohlins.jpg"
+    },
+    {
+      "id": "kw",
+      "brand": "KW SUSPENSIONS",
+      "name": "Variant 3",
+      "model": "352200BH",
+      "officialProductUrl": "https://store.kwsuspensions.com/products/kw-coilover-kit-v3-352200bh/",
+      "localImage": "assets/kw.jpg"
+    },
+    {
+      "id": "dssv",
+      "brand": "MULTIMATIC",
+      "name": "DSSV · Z/28 OE",
+      "model": "Camaro Z/28 原厂配套",
+      "officialProductUrl": "https://www.multimatic.com/manufacturing/suspension/damping-technology",
+      "localImage": "assets/dssv.png"
+    },
+    {
+      "id": "toyo-r888r",
+      "brand": "TOYO TIRES",
+      "name": "Proxes R888R",
+      "model": "Proxes R888R · 尺寸选配",
+      "officialProductUrl": "https://media.toyotires.com/product-information/proxes/proxes-r888r/",
+      "officialImageUrl": "https://media.toyotires.com/media/3l0jxp2u/proxes_r888r_lf.jpg?v=1dbd37fab218690&height=411",
+      "localImage": "assets/catalog/toyo-r888r.webp"
+    },
+    {
+      "id": "toyo-sport-r",
+      "brand": "TOYO TIRES",
+      "name": "Proxes Sport R",
+      "model": "Proxes Sport R · 尺寸选配",
+      "officialProductUrl": "https://media.toyotires.com/product-information/proxes/proxes-sport-r/",
+      "officialImageUrl": "https://media.toyotires.com/media/12mhzmpp/proxes-sport-r_27535zr18_left_hires.jpg?v=1dc49b5dcbd3d50&height=411",
+      "localImage": "assets/catalog/toyo-sport-r.webp"
+    },
+    {
+      "id": "toyo-sport-2",
+      "brand": "TOYO TIRES",
+      "name": "Proxes Sport 2",
+      "model": "Proxes Sport 2 · 尺寸选配",
+      "officialProductUrl": "https://media.toyotires.com/product-information/proxes/proxes-sport-2/",
+      "officialImageUrl": "https://media.toyotires.com/media/5izjauyk/proxes-sport-2_left_hires.jpg?v=1dbd38189f35870&height=411",
+      "localImage": "assets/catalog/toyo-sport-2.webp"
+    },
+    {
+      "id": "toyo-r1r",
+      "brand": "TOYO TIRES",
+      "name": "Proxes R1R",
+      "model": "Proxes R1R · 尺寸选配",
+      "officialProductUrl": "https://media.toyotires.com/product-information/proxes/proxes-r1r/",
+      "officialImageUrl": "https://media.toyotires.com/media/1goiueh1/toyo_proxesr1r_200lf.jpg?v=1dbd37f58a1d5f0&height=411",
+      "localImage": "assets/catalog/toyo-r1r.webp"
+    },
+    {
+      "id": "toyo-rr",
+      "brand": "TOYO TIRES",
+      "name": "Proxes RR",
+      "model": "Proxes RR · 尺寸选配",
+      "officialProductUrl": "https://media.toyotires.com/product-information/proxes/proxes-rr/",
+      "officialImageUrl": "https://media.toyotires.com/media/qekj2ep4/proxesplusrrplusfrplusreg.jpg?v=1dbd38026aae450&height=411",
+      "localImage": "assets/catalog/toyo-rr.webp"
+    },
+    {
+      "id": "toyo-ra1",
+      "brand": "TOYO TIRES",
+      "name": "Proxes RA1",
+      "model": "Proxes RA1 · 尺寸选配",
+      "officialProductUrl": "https://media.toyotires.com/product-information/proxes/proxes-ra1/",
+      "officialImageUrl": "https://media.toyotires.com/media/ysskvxv3/toyo_proxesra1_frplusreg.jpg?v=1dbd38001c7af60&height=411",
+      "localImage": "assets/catalog/toyo-ra1.webp"
+    },
+    {
+      "id": "nitto-nt01",
+      "brand": "NITTO",
+      "name": "NT01",
+      "model": "NT01 · 尺寸选配",
+      "officialProductUrl": "https://www.nittotire.com/competition-tires/nt01-dot-compliant-competition-road-course-tire/",
+      "officialImageUrl": "https://www.nittotire.com/media/zcrbrj2c/nt01_tire.png",
+      "localImage": "assets/catalog/nitto-nt01.webp"
+    },
+    {
+      "id": "nitto-555g2",
+      "brand": "NITTO",
+      "name": "NT555 G2",
+      "model": "NT555 G2 · 尺寸选配",
+      "officialProductUrl": "https://www.nittotire.com/car-tires/nt555-g2-ultra-high-performance-tire/",
+      "officialImageUrl": "https://www.nittotire.com/media/nhzfgbkx/nt555g2_tire.png",
+      "localImage": "assets/catalog/nitto-555g2.webp"
+    },
+    {
+      "id": "enkei-rpf1",
+      "brand": "ENKEI",
+      "name": "RPF1",
+      "model": "3794704928 SP",
+      "officialProductUrl": "https://enkei.com/shop/wheels/racing/rpf1/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-RPF1-SP-144-WEB.jpg",
+      "localImage": "assets/catalog/enkei-rpf1.webp"
+    },
+    {
+      "id": "enkei-pf01",
+      "brand": "ENKEI",
+      "name": "PF01",
+      "model": "460-570-4935 SP",
+      "officialProductUrl": "https://enkei.com/shop/wheels/racing/pf01/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-PF01-SP-104-WEB.jpg",
+      "localImage": "assets/catalog/enkei-pf01.webp"
+    },
+    {
+      "id": "enkei-nt03m",
+      "brand": "ENKEI",
+      "name": "NT03+M",
+      "model": "3658756537 SP",
+      "officialProductUrl": "https://enkei.com/shop/wheels/racing/nt03m/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/01/ENKEI-TOCLIP-NT03-M-SP-102.jpg",
+      "localImage": "assets/catalog/enkei-nt03m.webp"
+    },
+    {
+      "id": "enkei-rs05rr",
+      "brand": "ENKEI",
+      "name": "RS05RR",
+      "model": "484-885-1235 GM",
+      "officialProductUrl": "https://enkei.com/shop/wheels/racing/rs05rr/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-RS05RR-GM-190-WEB.jpg",
+      "localImage": "assets/catalog/enkei-rs05rr.webp"
+    },
+    {
+      "id": "enkei-ts-5",
+      "brand": "ENKEI",
+      "name": "TS-5",
+      "model": "521-780-6540 ZP",
+      "officialProductUrl": "https://enkei.com/shop/wheels/tuning/ts-5/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-TOCLIP-TS5-ZP-96-SM87.jpg",
+      "localImage": "assets/catalog/enkei-ts-5.webp"
+    },
+    {
+      "id": "enkei-t6r",
+      "brand": "ENKEI",
+      "name": "T6R",
+      "model": "539-780-6540 BK",
+      "officialProductUrl": "https://enkei.com/shop/wheels/tuning/t6r/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2021/02/ENKEI-T6R-Gloss-Black-Front-1.jpg",
+      "localImage": "assets/catalog/enkei-t6r.webp"
+    },
+    {
+      "id": "enkei-raijin",
+      "brand": "ENKEI",
+      "name": "RAIJIN",
+      "model": "467-880-1232 HS",
+      "officialProductUrl": "https://enkei.com/shop/wheels/tuning/raijin/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-TOCLIP-RAIJIN-HS-174-SM125-1.jpg",
+      "localImage": "assets/catalog/enkei-raijin.webp"
+    },
+    {
+      "id": "enkei-tfr",
+      "brand": "ENKEI",
+      "name": "TFR",
+      "model": "516-780-4445 ZP",
+      "officialProductUrl": "https://enkei.com/shop/wheels/tuning/tfr/",
+      "officialImageUrl": "https://enkei.com/wp-content/uploads/2019/12/ENKEI-TOCLIP-TFR-ZP-68-SM59-1.jpg",
+      "localImage": "assets/catalog/enkei-tfr.webp"
+    },
+    {
+      "id": "sparco-circuit-qrt",
+      "brand": "SPARCO",
+      "name": "CIRCUIT",
+      "model": "008019RNR",
+      "officialProductUrl": "https://www.sparcousa.com/product/circuit-qrt",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0001171_circuit_415.jpeg",
+      "localImage": "assets/catalog/sparco-circuit-qrt.webp"
+    },
+    {
+      "id": "sparco-ultra-qrt",
+      "brand": "SPARCO",
+      "name": "ULTRA",
+      "model": "008037FNR",
+      "officialProductUrl": "https://www.sparcousa.com/product/ultra-qrt",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0003985_ultra_415.jpeg",
+      "localImage": "assets/catalog/sparco-ultra-qrt.webp"
+    },
+    {
+      "id": "sparco-qrt-r",
+      "brand": "SPARCO",
+      "name": "QRT-R",
+      "model": "008012",
+      "officialProductUrl": "https://www.sparcousa.com/product/qrt-r",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0001244_qrt-r_415.jpeg",
+      "localImage": "assets/catalog/sparco-qrt-r.webp"
+    },
+    {
+      "id": "sparco-evo-qrt",
+      "brand": "SPARCO",
+      "name": "EVO",
+      "model": "008007RNR..",
+      "officialProductUrl": "https://www.sparcousa.com/product/evo-qrt",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0001165_evo_415.jpeg",
+      "localImage": "assets/catalog/sparco-evo-qrt.webp"
+    },
+    {
+      "id": "sparco-pro-2000-qrt-2020",
+      "brand": "SPARCO",
+      "name": "PRO 2000",
+      "model": "008016RNR",
+      "officialProductUrl": "https://www.sparcousa.com/product/pro-2000-qrt-2020",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0001643_pro-2000_415.jpeg",
+      "localImage": "assets/catalog/sparco-pro-2000-qrt-2020.webp"
+    },
+    {
+      "id": "sparco-sprint",
+      "brand": "SPARCO",
+      "name": "SPRINT+",
+      "model": "BRR000..",
+      "officialProductUrl": "https://www.sparcousa.com/product/sprint",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0005361_sprint_415.jpeg",
+      "localImage": "assets/catalog/sparco-sprint.webp"
+    },
+    {
+      "id": "sparco-r330",
+      "brand": "SPARCO",
+      "name": "R 330",
+      "model": "015R330",
+      "officialProductUrl": "https://www.sparcousa.com/product/r330",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0003176_r-330_415.jpeg",
+      "localImage": "assets/catalog/sparco-r330.webp"
+    },
+    {
+      "id": "sparco-r-383",
+      "brand": "SPARCO",
+      "name": "R 383",
+      "model": "015R383PSN",
+      "officialProductUrl": "https://www.sparcousa.com/product/r-383",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0000128_r-383_415.jpeg",
+      "localImage": "assets/catalog/sparco-r-383.webp"
+    },
+    {
+      "id": "sparco-r-323",
+      "brand": "SPARCO",
+      "name": "R 323",
+      "model": "015R323PSNR",
+      "officialProductUrl": "https://www.sparcousa.com/product/r-323",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0000125_r-323_415.jpeg",
+      "localImage": "assets/catalog/sparco-r-323.webp"
+    },
+    {
+      "id": "sparco-p-310",
+      "brand": "SPARCO",
+      "name": "P 310",
+      "model": "015P310F2SN",
+      "officialProductUrl": "https://www.sparcousa.com/product/p-310",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0004021_p-310_415.jpeg",
+      "localImage": "assets/catalog/sparco-p-310.webp"
+    },
+    {
+      "id": "sparco-p-300",
+      "brand": "SPARCO",
+      "name": "P 300",
+      "model": "015P300SN",
+      "officialProductUrl": "https://www.sparcousa.com/product/p-300",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0000132_p-300_415.jpeg",
+      "localImage": "assets/catalog/sparco-p-300.webp"
+    },
+    {
+      "id": "sparco-f10c-carbon",
+      "brand": "SPARCO",
+      "name": "F10C CARBON",
+      "model": "015PC27..",
+      "officialProductUrl": "https://www.sparcousa.com/product/f10c-carbon",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0001285_f10c-carbon_415.jpeg",
+      "localImage": "assets/catalog/sparco-f10c-carbon.webp"
+    },
+    {
+      "id": "sparco-6-pt-2-aluminum-pd",
+      "brand": "SPARCO",
+      "name": "COMP H-2 6PT ALUMINUM PD 2\"",
+      "model": "BRN0208..",
+      "officialProductUrl": "https://www.sparcousa.com/product/6-pt-2-aluminum-pd",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0005340_comp-h-2-6pt-aluminum-pd-2_415.jpeg",
+      "localImage": "assets/catalog/sparco-6-pt-2-aluminum-pd.webp"
+    },
+    {
+      "id": "sparco-6-pt-3-steel-pd-2",
+      "brand": "SPARCO",
+      "name": "COMP H-3 6PT STEEL PD 3\"",
+      "model": "04834HPDRAC..",
+      "officialProductUrl": "https://www.sparcousa.com/product/6-pt-3-steel-pd-2",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0004470_comp-h-3-6pt-steel-pd-3_415.jpeg",
+      "localImage": "assets/catalog/sparco-6-pt-3-steel-pd-2.webp"
+    },
+    {
+      "id": "sparco-4-pt-3",
+      "brand": "SPARCO",
+      "name": "SPORT H-4 4PT STEEL PU 3\"",
+      "model": "04716M1",
+      "officialProductUrl": "https://www.sparcousa.com/product/4-pt-3",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0002449_sport-h-4-4pt-steel-pu-3_415.jpeg",
+      "localImage": "assets/catalog/sparco-4-pt-3.webp"
+    },
+    {
+      "id": "sparco-club-h-4r-2-sfi",
+      "brand": "SPARCO",
+      "name": "SPORT 5PT 2\" SFI",
+      "model": "BRN0094U0K0100N",
+      "officialProductUrl": "https://www.sparcousa.com/product/club-h-4r-2-sfi",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0005380_sport-5pt-2-sfi_415.jpeg",
+      "localImage": "assets/catalog/sparco-club-h-4r-2-sfi.webp"
+    },
+    {
+      "id": "sparco-6-pt-2-formula",
+      "brand": "SPARCO",
+      "name": "FORMULA H-7 6PT 2\"",
+      "model": "04819H",
+      "officialProductUrl": "https://www.sparcousa.com/product/6-pt-2-formula",
+      "officialImageUrl": "https://www.sparcousa.com/content/images/thumbs/0002446_formula-h-7-6pt-2_415.jpeg",
+      "localImage": "assets/catalog/sparco-6-pt-2-formula.webp"
+    },
+    {
+      "id": "ebc-yellowstuff-fast-street-pads",
+      "brand": "EBC BRAKES",
+      "name": "Yellowstuff",
+      "model": "Yellowstuff · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/ebc-yellowstuff-fast-street-pads/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Yellowstuff_Generic_Gradient_Pair.jpg",
+      "localImage": "assets/catalog/ebc-yellowstuff-fast-street-pads.webp"
+    },
+    {
+      "id": "ebc-redstuff-ceramic-brake-pads",
+      "brand": "EBC BRAKES",
+      "name": "Redstuff",
+      "model": "Redstuff · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/ebc-redstuff-ceramic-brake-pads/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Redstuff_Generic_Gradient_Pair.jpg",
+      "localImage": "assets/catalog/ebc-redstuff-ceramic-brake-pads.webp"
+    },
+    {
+      "id": "ebc-greenstuff-brake-pads",
+      "brand": "EBC BRAKES",
+      "name": "Greenstuff",
+      "model": "Greenstuff · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/ebc-greenstuff-brake-pads/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Greenstuff_Generic_Gradient_Pair.jpg",
+      "localImage": "assets/catalog/ebc-greenstuff-brake-pads.webp"
+    },
+    {
+      "id": "ebc-bluestuff-ndx-super-street-trackday-brake-pads",
+      "brand": "EBC BRAKES",
+      "name": "Bluestuff NDX",
+      "model": "Bluestuff NDX · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/ebc-bluestuff-ndx-super-street-trackday-brake-pads/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Bluestuff_Generic_Gradient_Pair.jpg",
+      "localImage": "assets/catalog/ebc-bluestuff-ndx-super-street-trackday-brake-pads.webp"
+    },
+    {
+      "id": "rp-1-racing-brake-pads",
+      "brand": "EBC BRAKES",
+      "name": "RP-1",
+      "model": "RP-1 · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/rp-1-racing-brake-pads/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/RP1_Generic_Gradient_Pair.jpg",
+      "localImage": "assets/catalog/rp-1-racing-brake-pads.webp"
+    },
+    {
+      "id": "rp-x-racing-brake-pads",
+      "brand": "EBC BRAKES",
+      "name": "RP-X",
+      "model": "RP-X · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/rp-x-racing-brake-pads/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/RPX_Generic_Gradient_Pair.jpg",
+      "localImage": "assets/catalog/rp-x-racing-brake-pads.webp"
+    },
+    {
+      "id": "ebc-gd-sport-rotors",
+      "brand": "EBC BRAKES",
+      "name": "GD Sport Rotors",
+      "model": "GD Sport Rotors · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/ebc-gd-sport-rotors/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Gen3_GD_Disc_Generic_Vented_EBC_Main.jpg",
+      "localImage": "assets/catalog/ebc-gd-sport-rotors.webp"
+    },
+    {
+      "id": "ebc-usr-slotted-brake-rotors",
+      "brand": "EBC BRAKES",
+      "name": "USR Slotted Rotors",
+      "model": "USR Slotted Rotors · 车型编号选配",
+      "officialProductUrl": "https://www.ebcbrakes.com/products/ebc-usr-slotted-brake-rotors/",
+      "officialImageUrl": "https://www.ebcbrakes.com/wp-content/uploads/2021/06/Gen3_USR_Disc_Generic_Vented_EBC_Main.jpg",
+      "localImage": "assets/catalog/ebc-usr-slotted-brake-rotors.webp"
+    },
+    {
+      "id": "hr-sport-springs",
+      "brand": "H&R",
+      "name": "Sport Springs",
+      "model": "Sport Springs · 车型编号选配",
+      "officialProductUrl": "https://www.hrsprings.com/products/detail/springs",
+      "officialImageUrl": "https://www.hrsprings.com/images/uploads/products/_medium/SportSprings.jpg",
+      "localImage": "assets/catalog/hr-sport-springs.webp"
+    },
+    {
+      "id": "hr-super-sport-springs",
+      "brand": "H&R",
+      "name": "Super Sport Springs",
+      "model": "Super Sport Springs · 车型编号选配",
+      "officialProductUrl": "https://www.hrsprings.com/products/detail/springs",
+      "officialImageUrl": "https://www.hrsprings.com/images/uploads/products/_medium/SuperSport.jpg",
+      "localImage": "assets/catalog/hr-super-sport-springs.webp"
+    },
+    {
+      "id": "hr-race-springs",
+      "brand": "H&R",
+      "name": "Race Springs",
+      "model": "Race Springs · 车型编号选配",
+      "officialProductUrl": "https://www.hrsprings.com/products/detail/springs",
+      "officialImageUrl": "https://www.hrsprings.com/images/uploads/products/_medium/Race.jpg",
+      "localImage": "assets/catalog/hr-race-springs.webp"
+    },
+    {
+      "id": "hr-street-performance-coil-over",
+      "brand": "H&R",
+      "name": "Street Performance Coil Over",
+      "model": "Street Performance Coil Over · 车型编号选配",
+      "officialProductUrl": "https://www.hrsprings.com/products/detail/coil-overs",
+      "officialImageUrl": "https://www.hrsprings.com/images/uploads/products/_medium/StreetPerformanceCO.jpg",
+      "localImage": "assets/catalog/hr-street-performance-coil-over.webp"
+    },
+    {
+      "id": "hr-touring-cup-kit",
+      "brand": "H&R",
+      "name": "Touring Cup Kit",
+      "model": "Touring Cup Kit · 车型编号选配",
+      "officialProductUrl": "https://www.hrsprings.com/products/detail/cup-kits",
+      "officialImageUrl": "https://www.hrsprings.com/images/uploads/products/_medium/TouringCupKit.jpg",
+      "localImage": "assets/catalog/hr-touring-cup-kit.webp"
+    },
+    {
+      "id": "hr-sport-cup-kit",
+      "brand": "H&R",
+      "name": "Sport Cup Kit",
+      "model": "Sport Cup Kit · 车型编号选配",
+      "officialProductUrl": "https://www.hrsprings.com/products/detail/cup-kits",
+      "officialImageUrl": "https://www.hrsprings.com/images/uploads/products/_medium/SportCupKit.jpg",
+      "localImage": "assets/catalog/hr-sport-cup-kit.webp"
+    },
+    {
+      "id": "aim-solo-2-gps-track-day-racing-lap-timer-and-data-logger",
+      "brand": "AiM",
+      "name": "Solo 2",
+      "model": "Solo 2",
+      "officialProductUrl": "https://www.aimshop.com/products/aim-solo-2-gps-track-day-racing-lap-timer-and-data-logger",
+      "officialImageUrl": "https://cdn.shopify.com/s/files/1/0214/9392/files/product_solo2_00.webp?v=1755075137",
+      "localImage": "assets/catalog/aim-solo-2-gps-track-day-racing-lap-timer-and-data-logger.webp"
+    },
+    {
+      "id": "aim-mxs-strada-light-5-tft-car-dash-display-with-race-icons",
+      "brand": "AiM",
+      "name": "MXS 1.3 Strada Light",
+      "model": "MXS 1.3 Strada Light",
+      "officialProductUrl": "https://www.aimshop.com/products/aim-mxs-strada-light-5-tft-car-dash-display-with-race-icons",
+      "officialImageUrl": "https://cdn.shopify.com/s/files/1/0214/9392/files/product_MXSSTRADALIGHTRACE_00copy9_1.5x.webp?v=1757598270",
+      "localImage": "assets/catalog/aim-mxs-strada-light-5-tft-car-dash-display-with-race-icons.webp"
+    },
+    {
+      "id": "aim-mxg-strada-light-7-tft-dash-display-with-race-icons",
+      "brand": "AiM",
+      "name": "MXG 1.3 Strada Light",
+      "model": "MXG 1.3 Strada Light",
+      "officialProductUrl": "https://www.aimshop.com/products/aim-mxg-strada-light-7-tft-dash-display-with-race-icons",
+      "officialImageUrl": "https://cdn.shopify.com/s/files/1/0214/9392/files/product_MXGSTRADALIGHTRACE_00_1.5x.webp?v=1761059136",
+      "localImage": "assets/catalog/aim-mxg-strada-light-7-tft-dash-display-with-race-icons.webp"
+    },
+    {
+      "id": "smartycam-4-corsa",
+      "brand": "AiM",
+      "name": "SmartyCam 4 Corsa",
+      "model": "SmartyCam 4 Corsa",
+      "officialProductUrl": "https://www.aimshop.com/products/smartycam-4-corsa",
+      "officialImageUrl": "https://cdn.shopify.com/s/files/1/0214/9392/files/product_smartycam4_corsa_00_4.webp?v=1778657844",
+      "localImage": "assets/catalog/smartycam-4-corsa.webp"
+    }
+  ]
+}
